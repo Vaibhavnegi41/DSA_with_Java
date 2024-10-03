@@ -1085,8 +1085,7 @@ public class arrayINJava {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int[] arr={1,2,3,4,5,6,7};
-        int target=25;
-        System.out.println("minimum element index : "+minimum(arr));
+
 
 
     }
